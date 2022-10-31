@@ -32,11 +32,11 @@
  
   <div>
 <a href="https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&theme=highcontrast">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&theme=highcontrast"  />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=omagrawal-TSC&show_icons=true&theme=highcontrast"  />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=omagrawal1111&layout=compact&theme=highcontrast">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omagrawal1111&layout=compact&theme=highcontrast" height="200" width="310" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=omagrawal-TSC&layout=compact&theme=highcontrast">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omagrawal-TSC&layout=compact&theme=highcontrast" height="200" width="310" />
   
  </a>
 </div>
